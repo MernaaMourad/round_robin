@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585690460 source:d:\merna\data structure 1\round_robin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
